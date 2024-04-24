@@ -51,4 +51,5 @@ header {
 .card ,#Name,select,#email,#Age{
     width: 94%;
     margin-bottom: 5px;
+    font-size: larger;
 }
